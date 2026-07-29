@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1956
+slug  : the-zero-knowledge
+seal  : 9710c0670a94a7271ea7b6d908c74e6e18b5df9a70fae50487bcefa56c229c14
+prev  : 1466562b556623ac952c5d4dc38c1342ec46a8204b2d5cda5280ad9b360b80e1
+link  : b3ea5f5532a981e5d26b85d9cdb0e331a5b5138e35dbe19f390ba56a81d98887
+head  : b3ea5f5532a981e5d26b85d9cdb0e331a5b5138e35dbe19f390ba56a81d98887
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
